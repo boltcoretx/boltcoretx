@@ -6,7 +6,9 @@
 一名学生，热衷于探索新技术和新工具。
 
 - 我目前正在学习：🤔
-- 如何联系我：📫 zuokeyangtx@163.com
+- 如何联系我：
+  - 📫 boltcore@qq.com
+  - 📫 zuokeyangtx@163.com
 
 **教育**
 
@@ -18,12 +20,18 @@
 - [ ] C
 - [x] Python
 - [ ] MCU 单片机
-- [x] 深度学习基础 [🔍](/assets/learn.nvidia.com.jpg)
-
+- [x] 深度学习基础 [🧐](/assets/learn.nvidia.com.jpg)
+- [ ] Git
+- [ ] LaTex
 
 **项目**
 
 准备开发中，敬请期待
+
+**链接**
+
+- BiliBili：https://b23.tv/ryQJaAC
+- GitHub：https://github.com/boltcoretx
 
 **打工**
 
