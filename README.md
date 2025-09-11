@@ -18,6 +18,8 @@
 - [x] Markdown
 - [x] HTML
 - [ ] C
+- [ ] ArkTS
+- [ ] Kotlin
 - [x] Python
 - [ ] MCU 单片机
 - [x] 深度学习基础 [🧐](/assets/learn.nvidia.com.jpg)
