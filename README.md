@@ -7,7 +7,6 @@
 
 - 我目前正在学习：🤔
 - 如何联系我：
-  - 📫 boltcore@qq.com
   - 📫 zuokeyangtx@163.com
 
 **教育**
@@ -34,10 +33,6 @@
 
 - BiliBili：https://b23.tv/ryQJaAC
 - GitHub：https://github.com/boltcoretx
-
-**打工**
-
-倒计时
 
 **我想说**
 
